@@ -1,0 +1,26 @@
+.contenedor2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.contenedor{
+    width: 700px;
+    height: 800px;
+    border: 1px solid black;
+    padding: 10px;
+}
+table{
+    padding-top: 15px;
+}
+.agregar{
+    width: 420px;
+}
+h1{
+    border-bottom: 1px solid grey;
+}
+.tareath{
+    width: 300px;
+}
+.checkbox{
+    width: 50px;
+}
